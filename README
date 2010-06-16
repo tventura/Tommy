@@ -1,3 +1,19 @@
+6/15/2010
 New git repositor for Tommy project.
-Second change
-Second change
+
+Using github.com to maintain all the source code for the 
+Tommy project.
+
+http://www.tommy.net76.net
+
+***********************************************************
+6/16/2010
+
+To create your working copy of the git project Tommy:
+
+Go to a blank directory on your machine:
+git init
+git pull git@github.com:tventura/Tommy.git
+
+Thats it!
+***********************************************************
