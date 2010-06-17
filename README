@@ -1,5 +1,5 @@
 6/15/2010
-New git repositor for Tommy project.
+New git repository for Tommy project.
 
 Using github.com to maintain all the source code for the 
 Tommy project.
@@ -16,4 +16,13 @@ git init
 git pull git@github.com:tventura/Tommy.git
 
 Thats it!
+***********************************************************
+6/17/2010
+
+To put back your code
+
+git add *
+git commit *
+git push git@github.com:tventura/Tommy.git
+
 ***********************************************************
